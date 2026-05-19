@@ -10,27 +10,32 @@
 AI 기반 웹사이트 취약점 진단 툴입니다.
 
 <p align="center">
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/94924e12-d91c-457c-96c4-49c444d30e0e" />
+  <img width="600" alt="image"src="https://github.com/user-attachments/assets/ee6cb22e-30c0-45c8-815c-9aaf6b1b3c00" />
+" />
 </p>
 
 <p align="center">
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/b5c2bd80-5705-4201-ad54-f30828b1866f" />
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/d64c93bc-f52d-416f-b5c9-223e3ab8e44c" />
+" />
 </p>
 
 
 ## 구조도
 
 취약한 웹서버 환경<br>
-<img width="60%" alt="image" src="https://github.com/user-attachments/assets/6da87d6f-a9f7-4742-ab4f-f391e13fc27d" />
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/d5c1f5d2-fdf3-43b8-b326-e685d469f3aa" />
+" />
 
 취약점 진단 시스템 구조도<br>
-<img width="60%" alt="image" src="https://github.com/user-attachments/assets/cabd2936-a75d-42b6-9caf-5233d58d0871" />
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/026867d4-2638-4b7c-874c-08ff47da4f07" />
+" />
 
 
 ## 협업 툴
 
 Notion [[링크]](https://www.notion.so/4-2-360b3aca18a480aa826ddada7d8fa87b?source=copy_link)
-<img width="60%" alt="image" src="https://github.com/user-attachments/assets/b5c05ba2-1a0b-4877-9fc6-4fce19ff766c" />
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/12d3b441-3e91-47b3-a8e1-2efd8da93ee3" />
+" />
 
 
 ## 기술스택
@@ -107,15 +112,19 @@ Notion [[링크]](https://www.notion.so/4-2-360b3aca18a480aa826ddada7d8fa87b?sou
 #### 1. URL 기반 실시간 자동진단
 
 <p align="center">
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/94924e12-d91c-457c-96c4-49c444d30e0e" />
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/fcc31175-66a8-4746-b95c-8e9ce1c8ccdf" />
 </p>
 
 <p align="center">
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/b5c2bd80-5705-4201-ad54-f30828b1866f" />
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/13e08577-7f53-4727-a78d-ad63a08e0092" />
 </p>
 
 <p align="center">
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/3dbd6e18-0de7-4e68-9014-4afd949ec7fd" />
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/9cd19ccc-5701-43b5-bb26-54a7fdf09d46" />
+</p>
+
+<p align="center">
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/6d652f4c-7d17-4cc9-9a6e-957900d6fdab" />
 </p>
 
 ---
@@ -123,21 +132,26 @@ Notion [[링크]](https://www.notion.so/4-2-360b3aca18a480aa826ddada7d8fa87b?sou
 #### 2. 자동진단 수동진단 비교
 
 <p align="center">
-  <img width="650" alt="image" src="https://github.com/user-attachments/assets/b3350575-a10a-4171-83b4-9de27f391e97" />
+  <img width="650" alt="image"  src="https://github.com/user-attachments/assets/5ece4bea-1b27-4ede-bbcf-02fc650f3d21" />
+" />
 </p>
 
 <p align="center">
-  <img width="650" alt="image" src="https://github.com/user-attachments/assets/6e332ce6-bc10-4ff5-b825-57bae4b3a35e" />
+  <img width="650" alt="image" src="https://github.com/user-attachments/assets/8395f9a6-5e5f-40da-aa87-c198b6fb855d" />
+" />
 </p>
 
 <p align="center">
-  <img width="650" alt="image" src="https://github.com/user-attachments/assets/195b5bfa-df89-408e-a750-194529e61fb2" />
+  <img width="650" alt="image" src="https://github.com/user-attachments/assets/689e5613-1d9a-4bad-8bec-ecbd90533c9b" />
+" />
 </p>
 
 <p align="center">
-  <img width="650" alt="image" src="https://github.com/user-attachments/assets/4b6d99ed-f9ea-4dbc-92e3-d08a14f244e6" />
+  <img width="650" alt="image" src="https://github.com/user-attachments/assets/0a1e14de-cbe1-43f0-a9c3-906c7894b760" />
+" />
 </p>
 
 <p align="center">
-  <img width="650" alt="image" src="https://github.com/user-attachments/assets/0748ca90-3524-4b49-8686-52b506b50b86" />
+  <img width="650" alt="image" src="https://github.com/user-attachments/assets/a8b80cb2-96b1-4c8b-b048-1369235b2861" />
+" />
 </p>
