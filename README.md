@@ -29,7 +29,7 @@ AI 기반 웹사이트 취약점 진단 툴입니다.
 
 ## 협업 툴
 
-Notion [[링크]](https://www.notion.so/4-2-360b3aca18a480aa826ddada7d8fa87b?source=copy_link)
+Notion [[링크]](https://www.notion.so/4-2-360b3aca18a480aa826ddada7d8fa87b?source=copy_link)<br>
 <img width="60%" alt="image" src="https://github.com/user-attachments/assets/12d3b441-3e91-47b3-a8e1-2efd8da93ee3" />
 
 
