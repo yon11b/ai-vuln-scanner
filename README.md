@@ -9,6 +9,14 @@
 
 AI 기반 웹사이트 취약점 진단 툴입니다.
 
+취약한 웹사이트<br>
+<img width="811" height="553" alt="image" src="https://github.com/user-attachments/assets/bbd31e17-c298-4c0a-8180-7024ae0c49d5" />
+
+
+<img width="579" height="832" alt="image" src="https://github.com/user-attachments/assets/c8329d5c-eb0e-4794-8566-72d8e3b3f449" />
+
+
+대시보드<br>
 <p align="center">
   <img width="600" alt="image"src="https://github.com/user-attachments/assets/ee6cb22e-30c0-45c8-815c-9aaf6b1b3c00" />
 </p>
@@ -150,3 +158,9 @@ Notion [[링크]](https://www.notion.so/4-2-360b3aca18a480aa826ddada7d8fa87b?sou
   <img width="650" alt="image" src="https://github.com/user-attachments/assets/a8b80cb2-96b1-4c8b-b048-1369235b2861" />
 " />
 </p>
+---
+#### 3. 취약한 웹사이트
+<img width="647" height="644" alt="image" src="https://github.com/user-attachments/assets/53e51a76-d0d8-4e41-9dc6-d12088908407" />
+<img width="592" height="630" alt="image" src="https://github.com/user-attachments/assets/7149ee43-0634-4cac-bb90-04911e61d415" />
+<img width="605" height="667" alt="image" src="https://github.com/user-attachments/assets/03fa9a78-6e8f-476d-8c18-75e881273dd3" />
+<img width="619" height="508" alt="image" src="https://github.com/user-attachments/assets/5c9fb4ff-2088-40a3-87af-02e97899f22d" />
