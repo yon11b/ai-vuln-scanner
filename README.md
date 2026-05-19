@@ -11,12 +11,10 @@ AI 기반 웹사이트 취약점 진단 툴입니다.
 
 <p align="center">
   <img width="600" alt="image"src="https://github.com/user-attachments/assets/ee6cb22e-30c0-45c8-815c-9aaf6b1b3c00" />
-" />
 </p>
 
 <p align="center">
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/d64c93bc-f52d-416f-b5c9-223e3ab8e44c" />
-" />
 </p>
 
 
@@ -24,18 +22,15 @@ AI 기반 웹사이트 취약점 진단 툴입니다.
 
 취약한 웹서버 환경<br>
 <img width="60%" alt="image" src="https://github.com/user-attachments/assets/d5c1f5d2-fdf3-43b8-b326-e685d469f3aa" />
-" />
 
 취약점 진단 시스템 구조도<br>
-<img width="60%" alt="image" src="https://github.com/user-attachments/assets/026867d4-2638-4b7c-874c-08ff47da4f07" />
-" />
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/7f993b3d-8996-40ea-b62e-24f1782143dc" />
 
 
 ## 협업 툴
 
 Notion [[링크]](https://www.notion.so/4-2-360b3aca18a480aa826ddada7d8fa87b?source=copy_link)
 <img width="60%" alt="image" src="https://github.com/user-attachments/assets/12d3b441-3e91-47b3-a8e1-2efd8da93ee3" />
-" />
 
 
 ## 기술스택
