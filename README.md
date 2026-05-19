@@ -159,6 +159,7 @@ Notion [[링크]](https://www.notion.so/4-2-360b3aca18a480aa826ddada7d8fa87b?sou
 " />
 </p>
 ---
+
 #### 3. 취약한 웹사이트
 <img width="647" height="644" alt="image" src="https://github.com/user-attachments/assets/53e51a76-d0d8-4e41-9dc6-d12088908407" />
 <img width="592" height="630" alt="image" src="https://github.com/user-attachments/assets/7149ee43-0634-4cac-bb90-04911e61d415" />
